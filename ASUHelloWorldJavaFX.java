@@ -12,7 +12,7 @@ public class ASUHelloWorldJavaFX extends Application {
     public static void main(String[] args) {
         launch(args);
     }
-    
+    //hi
     public void start(Stage primaryStage) {
     	System.out.println("ASU Hello World!");
     	System.out.println("It started!");
